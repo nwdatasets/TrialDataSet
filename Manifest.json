@@ -1,4 +1,4 @@
 [
-{"name":"student", "fields":["age", "weight", "college"], "typtes":["int", "float", "object"]} ,
-{"name":"college", "fields":["name", "lat", "lon", "address"], "typtes":["object", "float", "float", "object]}
+{"name":"student", "fields":["age", "weight", "college"], "types":["int", "float", "object"]} ,
+{"name":"college", "fields":["name", "lat", "lon", "address"], "types":["object", "float", "float", "object]}
 ]
